@@ -7,7 +7,9 @@
 </p>
 
 <p align="left">
-  - 🔭 I’m currently working on Cybersecurity  - https://lexcy.netlify.app
+- 🔭 I’m currently working on Cybersecurity  - https://lexcy.co.ke
+
+- Main Git-hub account @https://github.com/AlexMwauraK/AlexMwauraK
 
 - 🌱 I’m currently learning **Security +, Aws Cloud, Cisco CEH**
 
