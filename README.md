@@ -9,7 +9,7 @@
 <p align="left">
 - 🔭 I’m currently working on Cybersecurity  - https://lexcy.co.ke
 
-- Main Git-hub account @https://github.com/AlexMwauraK/AlexMwauraK
+- Main Git-hub account @https://github.com/AlexMwauraK
 
 - 🌱 I’m currently learning **Security +, Aws Cloud, Cisco CEH**
 
