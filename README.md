@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **alecsmwaura@gmailcom**
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex-mwaura-k" alt="alex-mwaura-k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alex-Mwaura-k" alt="Alex-Mwaura-K" /></a> </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150">
