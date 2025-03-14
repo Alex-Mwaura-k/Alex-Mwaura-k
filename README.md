@@ -2,9 +2,9 @@
 <h3 align="center">Kenyan based Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-mwaura-k&label=Profile%20views&color=0e75b6&style=flat" alt="alexmwaurak" /> </p>
-<p align="center">
+<!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250"><br>
-</p>
+</p> -->
 
 <p align="left">
 - 🔭 I’m currently working on Cybersecurity  - https://lexcy.co.ke
