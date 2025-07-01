@@ -61,7 +61,7 @@
 ---
 
 ### 🏆 Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-mwaura-k&show_icons=true&theme=radical" width="33.33%" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-mwaura-k&layout=compact&theme=radical" width="33.33%" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-mwaura-k&theme=radical" alt="Streak Stats" width="33.33%"/>
