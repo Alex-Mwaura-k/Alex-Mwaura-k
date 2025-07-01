@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm a Full-stack Developer & Security Analyst</h1>
 <h3 align="center">🇰🇪 Kenyan-based Developer passionate about building and securing modern web applications</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-mwaura-k&show_icons=true&theme=radical&locale=en" width="48%" />
-  
-</p>
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=alex-mwaura-k&label=Profile%20views&color=0e75b6&style=flat" alt="alexmwaurak" />
 </p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" alt="Coding animation">
 </p>
@@ -61,6 +56,9 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-mwaura-k&theme=radical" alt="Streak Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alex-mwaura-k&show_icons=true&theme=radical&locale=en" width="48%" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-mwaura-k&layout=compact&theme=radical" width="48%" />
