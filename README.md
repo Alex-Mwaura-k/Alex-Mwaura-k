@@ -7,7 +7,10 @@
 </p>
 
 ---
-
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alex-mwaura-k&theme=radical&no-frame=true" alt="Trophies" />
+</p>
 ### 🔭 What I Do
 - Lead **full-stack development** & **cybersecurity initiatives** at [Lexcy](https://lexcy.co.ke)  
 - Advocate cloud and security best practices (Security+, AWS, Cisco CEH)  
@@ -52,12 +55,6 @@
 </p>
 
 ---
-
-### 🏆 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alex-mwaura-k&theme=radical&no-frame=true" alt="Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-mwaura-k&show_icons=true&theme=radical" width="48%" alt="Stats" />
