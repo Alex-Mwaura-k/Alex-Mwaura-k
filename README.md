@@ -1,25 +1,38 @@
 <h1 align="center">👋 Hi, I’m Alex Mwaura</h1>
 <h3 align="center">Full‑Stack Developer · Security Analyst · Cloud Architect</h3>
 <h4 align="center">🇰🇪 Based in Kenya | Passionate about full-stack & cybersecurity solutions</h4>
-<p></p><img src="https://komarev.com/ghpvc/?username=alex-mwaura-k&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" /></p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=alex-mwaura-k&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
 ### 🔭 What I Do
-- Lead **full-stack development** & **cybersecurity initiatives** at [Lexcy](https://lexcy.co.ke)
-- Advocate cloud and security best practices (Security+, AWS, Cisco CEH)
-- Build secure & scalable web solutions with modern tech stacks
-- Certified by [credly](https://www.credly.com/users/alex-mwaura-k)
+- Lead **full-stack development** & **cybersecurity initiatives** at [Lexcy](https://lexcy.co.ke)  
+- Advocate cloud and security best practices (Security+, AWS, Cisco CEH)  
+- Build secure & scalable web solutions with modern tech stacks  
+- Certified by [Credly](https://www.credly.com/users/alex-mwaura-k)  
+
+---
 
 ### 💼 Professional Highlights
-- **Cloud Architect** & **SOC Analyst** with hands-on experience protecting sensitive systems
-- Contributor to open‑source and CEH-focused labs and projects
-- Educator and mentor in cybersecurity fundamentals
+- **Cloud Architect** & **SOC Analyst** with hands-on experience protecting sensitive systems  
+- Contributor to open‑source and CEH-focused labs and projects  
+- Educator and mentor in cybersecurity fundamentals  
+
+---
 
 ### 📂 GitHub & Portfolio
 - 🧠 [GitHub: AlexMwauraK](https://github.com/AlexMwauraK)  
-- 🚀 [Recent Projects](https://github.com/AlexMwauraK?tab=repositories): Focus on security tools and full-stack apps
+- 🚀 [Recent Projects](https://github.com/AlexMwauraK?tab=repositories): Focus on security tools and full-stack apps  
+
+---
 
 ### 📬 Let’s Connect
 - ✉️ Email: **alecsmwaura@gmail.com**  
-- 🔗 LinkedIn: [Alex Mwaura](https://www.linkedin.com/in/alex-mwaura-7707b21a2/?originalSubdomain=ke)
+- 🔗 LinkedIn: [Alex Mwaura](https://www.linkedin.com/in/alex-mwaura-7707b21a2/?originalSubdomain=ke)  
+
 ---
 
 ### 🛠️ Tech Stack
@@ -31,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
