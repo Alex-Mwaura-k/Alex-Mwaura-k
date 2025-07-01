@@ -5,15 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alex-mwaura-k&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1-PALUDGtumJInxqmc8swD11V7yPtXRoL" alt="Google Drive Image" width="600" />
-</p>
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="150" alt="Coding animation" />
-</p>
-
 ---
 
 ### 🔭 What I Do
