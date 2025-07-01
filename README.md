@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I’m Alex Mwaura</h1>
 <h3 align="center">Full‑Stack Developer · Security Analyst · Cloud Architect</h3>
 <h4 align="center">🇰🇪 Based in Kenya | Passionate about full-stack & cybersecurity solutions</h4>
---- <img src="https://komarev.com/ghpvc/?username=alex-mwaura-k&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=alex-mwaura-k&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+---
 ### 🔭 What I Do
 - Lead **full-stack development** & **cybersecurity initiatives** at [Lexcy](https://lexcy.co.ke)
 - Advocate cloud and security best practices (Security+, AWS, Cisco CEH)
@@ -19,8 +20,7 @@
 
 ### 📬 Let’s Connect
 - ✉️ Email: **alecsmwaura@gmail.com**  
-- 🔗 LinkedIn: [Alex Mwaura](https://www.linkedin.com/in/alex-mwaura-7707b21a2/?originalSubdomain=ke) :contentReference[oaicite:2]{index=2}
-
+- 🔗 LinkedIn: [Alex Mwaura](https://www.linkedin.com/in/alex-mwaura-7707b21a2/?originalSubdomain=ke)
 ---
 
 ### 🛠️ Tech Stack
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" alt="AWS" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
@@ -62,6 +62,4 @@
 
 ---
 
-### ✨ Want to fine-tune?
-If you'd like a dark/light theme switch, customized banner, or additional badges, just say the word!
-::contentReference[oaicite:3]{index=3}
+### ✨ Get The Experience ⚡
