@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x100/FFFFFF/000000?text=Cyber+Secure+Oops+Always+" alt="Brand banner" />
+  <img src="https://drive.google.com/uc?export=view&id=1-PALUDGtumJInxqmc8swD11V7yPtXRoL" alt="Google Drive Image" width="600" />
 </p>
 
 <p align="left">
