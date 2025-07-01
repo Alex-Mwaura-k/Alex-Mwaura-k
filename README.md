@@ -10,8 +10,8 @@
   <img src="https://via.placeholder.com/600x100/FFFFFF/000000?text=Cyber+Secure+Oops+Always+" alt="Brand banner" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" alt="Coding animation" />
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="150" alt="Coding animation" />
 </p>
 
 ---
@@ -20,9 +20,10 @@
 - Lead **full-stack development** & **cybersecurity initiatives** at [Lexcy](https://lexcy.co.ke)
 - Advocate cloud and security best practices (Security+, AWS, Cisco CEH)
 - Build secure & scalable web solutions with modern tech stacks
+- Certified by [credly](https://www.credly.com/users/alex-mwaura-k)
 
 ### 💼 Professional Highlights
-- **Cloud Architect** & **SOC Analyst** with hands-on experience protecting sensitive systems :contentReference[oaicite:1]{index=1}
+- **Cloud Architect** & **SOC Analyst** with hands-on experience protecting sensitive systems
 - Contributor to open‑source and CEH-focused labs and projects
 - Educator and mentor in cybersecurity fundamentals
 
