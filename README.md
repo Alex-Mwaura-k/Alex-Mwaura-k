@@ -2,7 +2,6 @@
 <h3 align="center">Full‑Stack Developer · Security Analyst · Cloud Architect</h3>
 <h4 align="center">🇰🇪 Based in Kenya | Passionate about full-stack & cybersecurity solutions</h4>
 <p></p><img src="https://komarev.com/ghpvc/?username=alex-mwaura-k&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" /></p>
----
 ### 🔭 What I Do
 - Lead **full-stack development** & **cybersecurity initiatives** at [Lexcy](https://lexcy.co.ke)
 - Advocate cloud and security best practices (Security+, AWS, Cisco CEH)
