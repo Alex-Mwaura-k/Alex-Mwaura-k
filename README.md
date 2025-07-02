@@ -64,7 +64,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=alex-mwaura-k&show_icons=true&theme=radical" width="32%" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-mwaura-k&layout=compact&theme=radical" width="32%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-mwaura-k&theme=radical" alt="Streak Stats" width="32%"/>
+  <img src="https://streak-stats.demolab.com/?user=alex-mwaura-k&theme=radical" width="32%" alt="Streak Stats" />
 </p>
 
 ---
