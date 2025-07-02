@@ -63,7 +63,7 @@
 ### 🏆 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-mwaura-k&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alex-mwaura-k&layout=compact&theme=radical)
-![Streak Stats](https://streak-stats.demolab.com?user=alex-mwaura-k&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alex-mwaura-k&theme=radical%22%20alt=%22Streak%20Stats%22%20width=%2232%)
 
 
 ---
