@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hi, I’m Alex Mwaura</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=16&duration=7000&pause=1000&color=6EF728&vCenter=true&width=500&height=20&lines=Full%E2%80%91Stack+Developer+%C2%B7+Security+Analyst+%C2%B7+Cloud+Architect" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?weight=500&size=16&duration=7000&pause=1000&color=6EF728&vCenter=true&width=500&height=20&lines=Full%E2%80%91Stack+Developer+%C2%B7+Security+Analyst+%C2%B7+Cloud+Architect" alt="Typing SVG" />
+  </a>
+</p>
 <h4 align="center">🇰🇪 Based in Kenya | Passionate about full-stack & cybersecurity solutions</h4>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=alex-mwaura-k&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
