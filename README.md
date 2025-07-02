@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I’m Alex Mwaura</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=Full‑Stack+Developer;Security+Analyst;Cloud+Architect" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=Full‑Stack+Developer;Security+Analyst;Cloud+Architect" alt="Typing SVG" />
 </p>
 <h4 align="center">🇰🇪 Based in Kenya | Passionate about full-stack & cybersecurity solutions</h4>
 
